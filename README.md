@@ -1,6 +1,6 @@
 # EPHINEA CHARACTER VIEWER
 <b>URL</b> : <br>
-https://nanakamado7746.github.io/PSOBBCharacterItemViewer/
+https://jusctsch5.github.io/PSOBBCharacterItemViewer/
 
 <b>Forum</b> : <br>
 https://www.pioneer2.net/community/threads/character-item-viewer-on-the-web.22882/
